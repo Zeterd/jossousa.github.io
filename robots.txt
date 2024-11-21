@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jossousa.github.iohttps://jossousa.github.io/sitemap.xml
+Sitemap: https://jossousa.github.io/jossousa.github.io/sitemap.xml
